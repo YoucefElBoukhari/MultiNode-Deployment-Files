@@ -1,0 +1,2 @@
+ansible_private_key_file: cles/controller01-key.pem
+api_interface: ens4

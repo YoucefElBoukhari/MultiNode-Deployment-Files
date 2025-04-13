@@ -1,0 +1,3 @@
+ansible_private_key_file: cles/storage03-key.pem
+api_interface: ens4
+storage_interface : ens5

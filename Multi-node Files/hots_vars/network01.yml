@@ -1,0 +1,2 @@
+ansible_private_key_file: cles/network01-key.pem
+tunnel_interface: ens4

@@ -1,0 +1,3 @@
+ansible_private_key_file: cles/compute01-key.pem
+tunnel_interface: ens4
+storage_interface : ens5
